@@ -1,5 +1,6 @@
 # Mobile Banking Apps V3
 Aplikasi dummy mobile app.
+untuk pendidikan bsdp luvv luvv
 
 ## Requirements
 - Golang
